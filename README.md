@@ -9,13 +9,13 @@ Just for learning, testing and fun...
 
 ## Configure
 
-   git clone [https://github.com/w07c1ech/examples.git](https://github.com/w07c1ech/examples.git)
-   cd examples
-   mkdir build && cd build
-   cmake . ..
+    git clone [https://github.com/w07c1ech/examples.git](https://github.com/w07c1ech/examples.git)
+    cd examples
+    mkdir build && cd build
+    cmake . ..
 
 ## Build and run
 
-   cd build
-   make
-   ./examples # or ctest
+    cd build
+    make
+    ./examples # or ctest
